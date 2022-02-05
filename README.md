@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 🔭 I’m currently working on Orbis Sistemas
+- 🔭 I’m currently working on Orbis Sistemas as a Front-end Developer
 - 💡 I’m currently learning NodeJS
 
 <div align="center">
