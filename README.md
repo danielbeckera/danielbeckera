@@ -1,7 +1,7 @@
-### Hello 👋
+### Hi 👋
 
-- 🔭 I’m currently working on Orbis Sistemas as a Front-end Developer
-- 💡 I’m currently learning NodeJS
+- 🔭 Currently working on Orbis Sistemas as a Front-end Developer
+
 
 <div align="center">
   <a href="https://github.com/danielbeckera">
