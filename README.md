@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 🔭 Currently working on Orbis Sistemas as a Front-end Developer
+- 🔭 Currently working on imobles as a Front-end Developer
 
 
 <div align="center">
